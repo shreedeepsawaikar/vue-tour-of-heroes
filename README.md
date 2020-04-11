@@ -1,5 +1,5 @@
 # tour-of-heroes vue
-replica of tour-of-heroes angular project in vue js with vue router and and vueex
+replica of tour-of-heroes angular project in vue js with vue router and and vuex
 
 ## Project setup
 ```
