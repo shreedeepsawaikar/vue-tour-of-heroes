@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea907e05761e713ccd6a",
-    "url": "/vue-tour-of-heroes/css/app.3cf5ea12.css"
+    "revision": "edde70e57ddb050baaa4",
+    "url": "/vue-tour-of-heroes/css/app.6064566e.css"
   },
   {
-    "revision": "79b2e8f54d5395713657ebe60a8a86e7",
+    "revision": "0fe373e4f283d63db5fad5a2a3806fc3",
     "url": "/vue-tour-of-heroes/index.html"
   },
   {
-    "revision": "ea907e05761e713ccd6a",
-    "url": "/vue-tour-of-heroes/js/app.a732adc1.js"
+    "revision": "edde70e57ddb050baaa4",
+    "url": "/vue-tour-of-heroes/js/app.c206c262.js"
   },
   {
     "revision": "aaa2acb75b4232293f4a",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vue-tour-of-heroes/precache-manifest.0f63aedc5ded770d76bdaef0ec4408e7.js"
+  "/vue-tour-of-heroes/precache-manifest.6eac074057f732ff4fd77f08ae87c34a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tour-of-heroes"});
